@@ -1,0 +1,1651 @@
+ID
+Price
+Levy
+Prod. year
+Engine volume
+Mileage
+Cylinders
+Airbags
+Category_Coupe
+Category_Goods wagon
+Category_Hatchback
+Category_Jeep
+Category_Limousine
+Category_Microbus
+Category_Minivan
+Category_Pickup
+Category_Sedan
+Category_Universal
+Leather interior_Yes
+Fuel type_Diesel
+Fuel type_Hybrid
+Fuel type_Hydrogen
+Fuel type_LPG
+Fuel type_Petrol
+Fuel type_Plug-in Hybrid
+Gear box type_Manual
+Gear box type_Tiptronic
+Gear box type_Variator
+Drive wheels_Front
+Drive wheels_Rear
+Wheel_Right-hand drive
+Color_Black
+Color_Blue
+Color_Brown
+Color_Carnelian red
+Color_Golden
+Color_Green
+Color_Grey
+Color_Orange
+Color_Pink
+Color_Purple
+Color_Red
+Color_Silver
+Color_Sky blue
+Color_White
+Color_Yellow
+Car Name_ALFA ROMEO
+Car Name_ASTON MARTIN
+Car Name_AUDI
+Car Name_BMW
+Car Name_BUICK
+Car Name_CADILLAC
+Car Name_CHEVROLET
+Car Name_CHRYSLER
+Car Name_CITROEN
+Car Name_DAEWOO
+Car Name_DAIHATSU
+Car Name_DODGE
+Car Name_FERRARI
+Car Name_FIAT
+Car Name_FORD
+Car Name_GAZ
+Car Name_GMC
+Car Name_GREATWALL
+Car Name_HAVAL
+Car Name_HONDA
+Car Name_HUMMER
+Car Name_HYUNDAI
+Car Name_INFINITI
+Car Name_ISUZU
+Car Name_JAGUAR
+Car Name_JEEP
+Car Name_KIA
+Car Name_LANCIA
+Car Name_LAND ROVER
+Car Name_LEXUS
+Car Name_LINCOLN
+Car Name_MASERATI
+Car Name_MAZDA
+Car Name_MERCEDES-BENZ
+Car Name_MERCURY
+Car Name_MINI
+Car Name_MITSUBISHI
+Car Name_MOSKVICH
+Car Name_NISSAN
+Car Name_OPEL
+Car Name_PEUGEOT
+Car Name_PONTIAC
+Car Name_PORSCHE
+Car Name_RENAULT
+Car Name_ROLLS-ROYCE
+Car Name_ROVER
+Car Name_SAAB
+Car Name_SATURN
+Car Name_SCION
+Car Name_SEAT
+Car Name_SKODA
+Car Name_SSANGYONG
+Car Name_SUBARU
+Car Name_SUZUKI
+Car Name_TOYOTA
+Car Name_UAZ
+Car Name_VAZ
+Car Name_VOLKSWAGEN
+Car Name_VOLVO
+Car Name_ZAZ
+Car Name_სხვა
+Car Name_100
+Car Name_100 NX
+Car Name_1000
+Car Name_1111
+Car Name_114
+Car Name_116
+Car Name_118
+Car Name_118 2,0
+Car Name_118 M-sport LCI
+Car Name_120
+Car Name_128
+Car Name_128 M tech
+Car Name_130
+Car Name_1300
+Car Name_135
+Car Name_147
+Car Name_1500
+Car Name_1500,1600 Schtufenheck
+Car Name_159
+Car Name_166
+Car Name_190
+Car Name_20
+Car Name_200
+Car Name_206
+Car Name_207
+Car Name_208
+Car Name_21 3.0
+Car Name_2101 01
+Car Name_2103 03
+Car Name_2105
+Car Name_2106
+Car Name_2107
+Car Name_2107 07
+Car Name_2109
+Car Name_2121 (Niva)
+Car Name_2140
+Car Name_216
+Car Name_220
+Car Name_225
+Car Name_230
+Car Name_24
+Car Name_24 10
+Car Name_250
+Car Name_270
+Car Name_280
+Car Name_290
+Car Name_3.18E+38
+Car Name_3.20E+38
+Car Name_3.25E+48
+Car Name_300
+Car Name_300 LIMITED
+Car Name_3008
+Car Name_3008 2.0
+Car Name_307
+Car Name_3110
+Car Name_31105
+Car Name_31514
+Car Name_31514 UAZ
+Car Name_316
+Car Name_316 i
+Car Name_318
+Car Name_318 m
+Car Name_318 რესტაილინგი
+Car Name_318 სასწრაფოდ
+Car Name_320
+Car Name_320 2.0
+Car Name_320 2.2
+Car Name_320 320
+Car Name_320 DIESEL
+Car Name_320 Diesel
+Car Name_320 Gran Turismo
+Car Name_320 I
+Car Name_320 M
+Car Name_320 i
+Car Name_32214
+Car Name_322173
+Car Name_323
+Car Name_323 F
+Car Name_325
+Car Name_325 CI
+Car Name_325 XI
+Car Name_325 i
+Car Name_328
+Car Name_328 DIZEL
+Car Name_328 DRIFT CAR
+Car Name_328 Xdrive
+Car Name_328 i
+Car Name_328 sulev
+Car Name_330
+Car Name_335
+Car Name_335 335i
+Car Name_335 D
+Car Name_335 M paket
+Car Name_340
+Car Name_370Z
+Car Name_3796
+Car Name_400
+Car Name_400X
+Car Name_401
+Car Name_406
+Car Name_407
+Car Name_416
+Car Name_420
+Car Name_428
+Car Name_428 Sport Line
+Car Name_428 i
+Car Name_435
+Car Name_435 CUPE
+Car Name_4Runner
+Car Name_4Runner LIMITED
+Car Name_5.30E+62
+Car Name_50
+Car Name_500
+Car Name_500 46 ml
+Car Name_500 Abarth
+Car Name_500 Abarth ტურბო
+Car Name_500 Lounge
+Car Name_500 SPORT
+Car Name_500 Sport
+Car Name_500 s
+Car Name_500 sport
+Car Name_500 sport panorama
+Car Name_500 turbo
+Car Name_500C
+Car Name_500C Lounge
+Car Name_500L
+Car Name_500L LONG
+Car Name_500X
+Car Name_500X Lounge
+Car Name_508
+Car Name_520
+Car Name_520 I
+Car Name_520 Vanos
+Car Name_520 d xDrive Luxury
+Car Name_523
+Car Name_525
+Car Name_525 ///M
+Car Name_525 525
+Car Name_525 TDI
+Car Name_525 Vanos
+Car Name_525 i
+Car Name_528
+Car Name_528 3.0
+Car Name_528 i
+Car Name_530
+Car Name_530 525i
+Car Name_530 GT
+Car Name_530 I
+Car Name_530 M
+Car Name_530 i
+Car Name_535
+Car Name_535 535
+Car Name_535 Diesel
+Car Name_535 I
+Car Name_535 M
+Car Name_535 M PAKET
+Car Name_535 Twinturbo
+Car Name_535 XI
+Car Name_535 comfort-sport
+Car Name_535 i
+Car Name_535 i xDrive
+Car Name_540 I
+Car Name_545
+Car Name_550
+Car Name_550 F10
+Car Name_550 GT
+Car Name_550 M Packet
+Car Name_607
+Car Name_616
+Car Name_626
+Car Name_630
+Car Name_635
+Car Name_640
+Car Name_640 GRAN-COUPE
+Car Name_645
+Car Name_645 CI
+Car Name_650
+Car Name_650 450 HP
+Car Name_7.30E+34
+Car Name_730
+Car Name_730 3.0
+Car Name_740
+Car Name_740 i
+Car Name_745
+Car Name_745 i
+Car Name_750
+Car Name_750 4.8
+Car Name_807
+Car Name_911
+Car Name_911 meqanika
+Car Name_940
+Car Name_960
+Car Name_969 968m
+Car Name_969 luaz
+Car Name_A 140
+Car Name_A 140 140
+Car Name_A 160
+Car Name_A 170
+Car Name_A 170 Avangard
+Car Name_A 170 CDI
+Car Name_A 190
+Car Name_A 200
+Car Name_A3
+Car Name_A3 4X4
+Car Name_A3 PREMIUM
+Car Name_A4
+Car Name_A4 B6
+Car Name_A4 B7
+Car Name_A4 S line
+Car Name_A4 S4
+Car Name_A4 Sline
+Car Name_A4 premium
+Car Name_A4 premium plius
+Car Name_A5
+Car Name_A5 Sportback
+Car Name_A6
+Car Name_A6 C7
+Car Name_A6 QUATTRO
+Car Name_A6 UNIVERSAL
+Car Name_A6 evropuli
+Car Name_A6 premium plus
+Car Name_A6 С6
+Car Name_A7
+Car Name_A8
+Car Name_ATS
+Car Name_Acadia
+Car Name_Accent
+Car Name_Accent GS
+Car Name_Accent SE
+Car Name_Accord
+Car Name_Accord CL9 type S
+Car Name_Actyon
+Car Name_Aerio SX
+Car Name_Agila
+Car Name_Airtrek
+Car Name_Airtrek turbo
+Car Name_Allante
+Car Name_Allroad
+Car Name_Allroad Allroad
+Car Name_Almera
+Car Name_Almera dci
+Car Name_Alphard
+Car Name_Altezza
+Car Name_Altima
+Car Name_Alto Lapin
+Car Name_Aqua
+Car Name_Aqua G
+Car Name_Aqua G klas
+Car Name_Aqua HIBRID
+Car Name_Aqua L paketi
+Car Name_Aqua S
+Car Name_Aqua g soft leather sele
+Car Name_Aqua s
+Car Name_Aqua sport
+Car Name_Aqua სასწრაფოდ
+Car Name_Armada
+Car Name_Astra
+Car Name_Astra 1600
+Car Name_Astra A.H
+Car Name_Astra BERTONE
+Car Name_Astra CNG
+Car Name_Astra G
+Car Name_Astra GE
+Car Name_Astra GTC 1.9 turbo dies
+Car Name_Astra H
+Car Name_Astra astra
+Car Name_Astra g
+Car Name_Astra j
+Car Name_Astra suzuki mr wagon
+Car Name_Atenza
+Car Name_Auris
+Car Name_Avalanche
+Car Name_Avalon
+Car Name_Avalon LIMITED
+Car Name_Avalon Limited
+Car Name_Avalon limited
+Car Name_Avella
+Car Name_Avenger
+Car Name_Avensis
+Car Name_Aveo
+Car Name_Axela
+Car Name_Azera
+Car Name_B 170
+Car Name_B 170 B Class
+Car Name_B 170 Edition One
+Car Name_B 180
+Car Name_B 200
+Car Name_B 200 Turbo
+Car Name_B 220
+Car Name_B-MAX
+Car Name_B9 Tribeca
+Car Name_BB
+Car Name_BRZ
+Car Name_Belta
+Car Name_Berlingo
+Car Name_Bluebird
+Car Name_C 180
+Car Name_C 180 komp
+Car Name_C 200
+Car Name_C 200 2.0
+Car Name_C 200 7G-TRONIC
+Car Name_C 200 KOMPRESSOR
+Car Name_C 200 Kompressor
+Car Name_C 220
+Car Name_C 220 CDI
+Car Name_C 230
+Car Name_C 230 2.0 kompresor
+Car Name_C 230 2.5
+Car Name_C 230 kompresor
+Car Name_C 240
+Car Name_C 240 W 203
+Car Name_C 240 w203
+Car Name_C 250
+Car Name_C 250 1,8 turbo
+Car Name_C 250 1.8
+Car Name_C 250 1.8 ტურბო
+Car Name_C 250 A.M.G
+Car Name_C 250 AMG
+Car Name_C 250 AMG-PAKET-1,8
+Car Name_C 250 luxury
+Car Name_C 270
+Car Name_C 280
+Car Name_C 300
+Car Name_C 300 4matic
+Car Name_C 300 6.3 AMG Package
+Car Name_C 300 sport
+Car Name_C 32 AMG
+Car Name_C 320
+Car Name_C 320 AMG
+Car Name_C 320 CDI
+Car Name_C 350
+Car Name_C 36 AMG
+Car Name_C 400
+Car Name_C 43 AMG
+Car Name_C 63 AMG
+Car Name_C-MAX
+Car Name_C-MAX C-MAX
+Car Name_C-MAX HYBRID
+Car Name_C-MAX PREMIUM
+Car Name_C-MAX SE
+Car Name_C-MAX SEL
+Car Name_C1
+Car Name_C1 C
+Car Name_C30
+Car Name_C30 2010
+Car Name_C4
+Car Name_C5
+Car Name_C70
+Car Name_C8
+Car Name_CC
+Car Name_CC 2.0 T
+Car Name_CC R line
+Car Name_CC sport
+Car Name_CERVO
+Car Name_CHR
+Car Name_CHR Limited
+Car Name_CL 500
+Car Name_CL 55 AMG KOMPRESSOR
+Car Name_CL 550
+Car Name_CL 600
+Car Name_CL550 AMG
+Car Name_CLA 250
+Car Name_CLA 250 AMG
+Car Name_CLA 45 AMG
+Car Name_CLK 200
+Car Name_CLK 200 200
+Car Name_CLK 200 208
+Car Name_CLK 200 Kompressor
+Car Name_CLK 200 kompresor
+Car Name_CLK 230
+Car Name_CLK 230 .
+Car Name_CLK 240
+Car Name_CLK 270
+Car Name_CLK 280
+Car Name_CLK 320
+Car Name_CLK 320 AMG
+Car Name_CLK 320 avangarde
+Car Name_CLK 350
+Car Name_CLK 430
+Car Name_CLK 55 AMG
+Car Name_CLS 350
+Car Name_CLS 350 AMG
+Car Name_CLS 350 JAPAN
+Car Name_CLS 450 CLS 400
+Car Name_CLS 500
+Car Name_CLS 55 AMG
+Car Name_CLS 550
+Car Name_CLS 550 550
+Car Name_CLS 63 AMG
+Car Name_CR-Z
+Car Name_CR-Z ჰიბრიდი
+Car Name_CRX
+Car Name_CT 200h
+Car Name_CT 200h 1.8
+Car Name_CT 200h F SPORT
+Car Name_CT 200h F sport
+Car Name_CT 200h F-sport
+Car Name_CTS
+Car Name_CX-3
+Car Name_CX-5
+Car Name_CX-5 Touring
+Car Name_CX-7
+Car Name_CX-9
+Car Name_Caddy
+Car Name_Caddy cadi
+Car Name_Cadenza
+Car Name_Caldina
+Car Name_Caliber
+Car Name_Caliber journey
+Car Name_Caliber sxt
+Car Name_Camaro
+Car Name_Camaro LS
+Car Name_Camaro RS
+Car Name_Cami
+Car Name_Camry
+Car Name_Camry HYBRID
+Car Name_Camry Hybrid
+Car Name_Camry LE
+Car Name_Camry Le
+Car Name_Camry S
+Car Name_Camry SE
+Car Name_Camry SE HIBRYD
+Car Name_Camry SPORT
+Car Name_Camry SPORT PAKET
+Car Name_Camry Se
+Car Name_Camry XLE
+Car Name_Camry XLEi
+Car Name_Camry XSE
+Car Name_Camry XV50
+Car Name_Camry se
+Car Name_Camry sel
+Car Name_Camry sport
+Car Name_Camry sport se
+Car Name_Camry sporti
+Car Name_Camry ჰიბრიდი
+Car Name_Captiva
+Car Name_Captur QM3 Samsung
+Car Name_Caravan
+Car Name_Caravan tradesman
+Car Name_Carens
+Car Name_Carisma
+Car Name_Carnival
+Car Name_Carnival grand
+Car Name_Catera
+Car Name_Cayenne
+Car Name_Cayenne S
+Car Name_Cayenne s
+Car Name_Cayman
+Car Name_Ceed
+Car Name_Cefiro
+Car Name_Celica
+Car Name_Century
+Car Name_Cerato
+Car Name_Cerato K3
+Car Name_Challenger
+Car Name_Charger RT
+Car Name_Chariot
+Car Name_Cherokee
+Car Name_Cinquecento
+Car Name_Citan
+Car Name_Civic
+Car Name_Civic EX
+Car Name_Civic Hybrid
+Car Name_Clio
+Car Name_Colorado
+Car Name_Colt
+Car Name_Colt Lancer
+Car Name_ColtPlus
+Car Name_ColtPlus Plus
+Car Name_Combo
+Car Name_Combo 1700
+Car Name_Combo 2001
+Car Name_Combo TDI
+Car Name_Compass
+Car Name_Continental
+Car Name_Cooper
+Car Name_Cooper CLUBMAN
+Car Name_Cooper F-56
+Car Name_Cooper S
+Car Name_Cooper S Cabrio
+Car Name_Cooper S Cabrio R56
+Car Name_Cooper r50
+Car Name_Corolla
+Car Name_Corolla 04
+Car Name_Corolla 140
+Car Name_Corolla ECO
+Car Name_Corolla IM
+Car Name_Corolla Im
+Car Name_Corolla LE
+Car Name_Corolla S
+Car Name_Corolla se
+Car Name_Corolla spacio
+Car Name_Corolla verso
+Car Name_Corsa
+Car Name_Corsa Corsa
+Car Name_Corvette
+Car Name_Cougar
+Car Name_Countryman
+Car Name_Countryman S
+Car Name_Countryman S turbo
+Car Name_Countryman s
+Car Name_Countryman sport
+Car Name_Courier
+Car Name_Cr-v
+Car Name_Cr-v Cr-v
+Car Name_Cr-v LX
+Car Name_Crafter
+Car Name_Crafter 2,5TDI
+Car Name_Crafter 2.5 TDI
+Car Name_Crossfire
+Car Name_Crossland X
+Car Name_Crossroad
+Car Name_Crosstour
+Car Name_Crosstrek
+Car Name_Cruze
+Car Name_Cruze Cruze
+Car Name_Cruze L T
+Car Name_Cruze LS
+Car Name_Cruze LT
+Car Name_Cruze LT RS
+Car Name_Cruze LTZ
+Car Name_Cruze PREMIER
+Car Name_Cruze Premier
+Car Name_Cruze RS
+Car Name_Cruze S
+Car Name_Cruze ltz
+Car Name_Cruze sonic
+Car Name_Cruze strocna
+Car Name_DS 4
+Car Name_DTS
+Car Name_Daimler
+Car Name_Dart
+Car Name_Dart GT 2.4
+Car Name_Dart Limited
+Car Name_Defender 90 Cabrio
+Car Name_Delica
+Car Name_Delica 5
+Car Name_Demio
+Car Name_Demio 12
+Car Name_Demio Sport
+Car Name_Demio evropuli
+Car Name_Demio mazda2
+Car Name_Discovery
+Car Name_Discovery IV
+Car Name_Discovery LR3
+Car Name_Doblo
+Car Name_Durango
+Car Name_Duster
+Car Name_E 200
+Car Name_E 200 2000
+Car Name_E 200 CGI
+Car Name_E 220
+Car Name_E 220 CDI
+Car Name_E 220 ELEGANCE
+Car Name_E 220 W210...CDI
+Car Name_E 220 cdi
+Car Name_E 230
+Car Name_E 230 124
+Car Name_E 240
+Car Name_E 240 E 240
+Car Name_E 250
+Car Name_E 270
+Car Name_E 270 4
+Car Name_E 270 AVANGARDI
+Car Name_E 270 CDI
+Car Name_E 280
+Car Name_E 280 3.0
+Car Name_E 280 CDI
+Car Name_E 290
+Car Name_E 300
+Car Name_E 300 AVANTGARDE-LTD
+Car Name_E 320
+Car Name_E 320 4matic
+Car Name_E 320 4×4
+Car Name_E 320 bluetec
+Car Name_E 350
+Car Name_E 350 212
+Car Name_E 350 4 MATIC
+Car Name_E 350 4 Matic AMG Packag
+Car Name_E 350 4 matic
+Car Name_E 350 AMG
+Car Name_E 350 w211
+Car Name_E 350 ამგ
+Car Name_E 36 AMG
+Car Name_E 400
+Car Name_E 420
+Car Name_E 430
+Car Name_E 50
+Car Name_E 500
+Car Name_E 500 AMG
+Car Name_E 500 AVG
+Car Name_E 55
+Car Name_E 550
+Car Name_E-pace
+Car Name_ES 300
+Car Name_ES 300 hybrid
+Car Name_ES 350
+Car Name_EX35
+Car Name_EX37
+Car Name_Eclipse
+Car Name_Eclipse ES
+Car Name_EcoSport
+Car Name_EcoSport SE
+Car Name_Edge
+Car Name_Edix
+Car Name_Edix FR-v
+Car Name_Elantra
+Car Name_Elantra 2014
+Car Name_Elantra 2016
+Car Name_Elantra GLS / LIMITED
+Car Name_Elantra GS
+Car Name_Elantra GT
+Car Name_Elantra Gt
+Car Name_Elantra LIMITED
+Car Name_Elantra LIMITEDI
+Car Name_Elantra Limited
+Car Name_Elantra SE
+Car Name_Elantra Se
+Car Name_Elantra gt
+Car Name_Elantra i30
+Car Name_Elantra limited
+Car Name_Elantra se
+Car Name_Elantra sport limited
+Car Name_Element
+Car Name_Elgrand
+Car Name_Elysion
+Car Name_Elysion 3.0
+Car Name_Enclave
+Car Name_Encore
+Car Name_Envoy
+Car Name_Eos
+Car Name_Equinox
+Car Name_Equinox LT
+Car Name_Escalade
+Car Name_Escape
+Car Name_Escape 3.0
+Car Name_Escape HYBRID
+Car Name_Escape Hybrid
+Car Name_Escape SE
+Car Name_Escape Titanium
+Car Name_Escape escape
+Car Name_Escape მერკური მერინერი
+Car Name_Escape სასწრაფოდ
+Car Name_Escort
+Car Name_Escudo
+Car Name_Estima
+Car Name_Eunos 500
+Car Name_Every Landy NISSAN SEREN
+Car Name_Expedition
+Car Name_Explorer
+Car Name_Explorer Turbo japan
+Car Name_Explorer XLT
+Car Name_F-pace
+Car Name_F-type
+Car Name_F150
+Car Name_F50
+Car Name_FIT
+Car Name_FIT "S"- PAKETI.
+Car Name_FIT GP-5
+Car Name_FIT GP-6
+Car Name_FIT HIBRID
+Car Name_FIT HYBRYD
+Car Name_FIT Hbrid
+Car Name_FIT Hybrid
+Car Name_FIT LX
+Car Name_FIT Modulo
+Car Name_FIT NAVI PREMIUM
+Car Name_FIT PREMIUM PAKETI
+Car Name_FIT PREMIUMI
+Car Name_FIT Premiym
+Car Name_FIT RS
+Car Name_FIT RS MODELI
+Car Name_FIT RS MUGEN
+Car Name_FIT S
+Car Name_FIT SPORT
+Car Name_FIT Sport
+Car Name_FIT ex
+Car Name_FIT fit
+Car Name_FJ Cruiser
+Car Name_FX35
+Car Name_FX45
+Car Name_Fabia
+Car Name_Feroza
+Car Name_Fiesta
+Car Name_Fiesta 1.6
+Car Name_Fiesta SE
+Car Name_Fit Aria
+Car Name_Focus
+Car Name_Focus Flexfuel
+Car Name_Focus Fokusi
+Car Name_Focus SE
+Car Name_Focus SEL
+Car Name_Focus ST
+Car Name_Focus TITANIUM
+Car Name_Focus Titanium
+Car Name_Focus se
+Car Name_Forester
+Car Name_Forester 4x4
+Car Name_Forester CrossSport
+Car Name_Forester L.L.BEAN
+Car Name_Forester SH
+Car Name_Forester XT
+Car Name_Forester cross sport
+Car Name_Forester stb
+Car Name_Forte
+Car Name_Fortuner
+Car Name_Fred
+Car Name_Fred HIBRIDI
+Car Name_Freelander
+Car Name_Frontera
+Car Name_Frontera A B
+Car Name_Frontier
+Car Name_Fuga
+Car Name_Fun Cargo
+Car Name_Fusion
+Car Name_Fusion 1.6
+Car Name_Fusion 2015
+Car Name_Fusion Bybrid
+Car Name_Fusion HIBRID
+Car Name_Fusion HYBRID
+Car Name_Fusion HYBRID SE
+Car Name_Fusion Hybrid
+Car Name_Fusion SE
+Car Name_Fusion TITANIUM
+Car Name_Fusion Titanium
+Car Name_Fusion hybrid
+Car Name_Fusion phev
+Car Name_G 230 2.2cdi
+Car Name_G 300
+Car Name_G 320
+Car Name_G 350
+Car Name_G 55 AMG
+Car Name_G 550
+Car Name_G 63 AMG
+Car Name_G20
+Car Name_G35 x
+Car Name_G37
+Car Name_G6
+Car Name_GL 320
+Car Name_GL 320 bluetec
+Car Name_GL 350
+Car Name_GL 350 BLUETEC
+Car Name_GL 350 BLUTEC
+Car Name_GL 350 Bluetec
+Car Name_GL 350 დიზელი
+Car Name_GL 450
+Car Name_GL 450 3.0
+Car Name_GL 550
+Car Name_GL 63 AMG
+Car Name_GLA 200
+Car Name_GLA 250
+Car Name_GLC 300
+Car Name_GLE 350
+Car Name_GLE 450
+Car Name_GLE 63 AMG
+Car Name_GLK 250
+Car Name_GLK 300
+Car Name_GLK 350
+Car Name_GLS 63 AMG
+Car Name_GONOW
+Car Name_GS 300
+Car Name_GS 350
+Car Name_GS 450
+Car Name_GTI
+Car Name_GX 460
+Car Name_GX 470
+Car Name_GX 470 470
+Car Name_GX 470 SUV 4D (4.7L V8 S
+Car Name_Galant
+Car Name_Galant GTS
+Car Name_Galaxy
+Car Name_Galloper
+Car Name_Genesis
+Car Name_Gentra
+Car Name_Getz
+Car Name_Ghibli
+Car Name_Giulietta
+Car Name_Gloria
+Car Name_Golf
+Car Name_Golf 1.8
+Car Name_Golf 2
+Car Name_Golf 3
+Car Name_Golf 4
+Car Name_Golf 6
+Car Name_Golf GOLF 5
+Car Name_Golf GTI
+Car Name_Golf Gti
+Car Name_Golf TDI
+Car Name_Grand Cherokee
+Car Name_Grand Cherokee LAREDO
+Car Name_Grand Cherokee Saiubileo
+Car Name_Grand Cherokee special e
+Car Name_Grand HIACE
+Car Name_Grand Vitara
+Car Name_Grandeur
+Car Name_Grandis
+Car Name_H1
+Car Name_H1 GRAND STAREX
+Car Name_H1 grandstarex
+Car Name_H1 starixs
+Car Name_H2
+Car Name_H3
+Car Name_H6
+Car Name_HHR
+Car Name_HS 250h
+Car Name_HS 250h Hybrid
+Car Name_HUSTLER
+Car Name_Harrier
+Car Name_Hiace
+Car Name_Highlander
+Car Name_Highlander 2,4
+Car Name_Highlander 2.4 lit
+Car Name_Highlander LIMITED
+Car Name_Highlander XLE
+Car Name_Highlander limited
+Car Name_Highlander sport
+Car Name_Hilux
+Car Name_Hilux Surf
+Car Name_Hr-v
+Car Name_Hr-v EX
+Car Name_Hr-v EXL
+Car Name_I
+Car Name_I30
+Car Name_INSIGNIA
+Car Name_IS 200
+Car Name_IS 250
+Car Name_IS 250 TURBO
+Car Name_IS 250 რესტაილინგი
+Car Name_IS 300
+Car Name_IS 350
+Car Name_IS 350 C
+Car Name_IS-F
+Car Name_ISIS
+Car Name_IVECO DAYLY
+Car Name_IX35
+Car Name_IX35 2.0
+Car Name_Ibiza
+Car Name_Ignis
+Car Name_Impala
+Car Name_Impreza
+Car Name_Impreza G4
+Car Name_Impreza Sport
+Car Name_Impreza WRX/STI LIMITED
+Car Name_Insight
+Car Name_Insight EX
+Car Name_Insight LX
+Car Name_Inspire
+Car Name_Integra
+Car Name_Intrepid
+Car Name_Ioniq
+Car Name_Ipsum
+Car Name_Ipsum S
+Car Name_Ist
+Car Name_Ist 1.5
+Car Name_JX35
+Car Name_Jetta
+Car Name_Jetta 1.4 TURBO
+Car Name_Jetta 2
+Car Name_Jetta 2.0
+Car Name_Jetta GLI
+Car Name_Jetta Hybrid
+Car Name_Jetta SE
+Car Name_Jetta SEL
+Car Name_Jetta SPORT
+Car Name_Jetta TDI
+Car Name_Jetta s
+Car Name_Jetta se
+Car Name_Jetta sei
+Car Name_Jetta sel
+Car Name_Jetta sport
+Car Name_Jetta სასწაფოდ
+Car Name_Jetta სპორტ
+Car Name_Jimny
+Car Name_Jimny GLX
+Car Name_Journey
+Car Name_Juke
+Car Name_Juke Juke
+Car Name_Juke NISMO
+Car Name_Juke Nismo
+Car Name_Juke Nismo RS
+Car Name_Juke Turbo
+Car Name_Juke juke
+Car Name_Juke nismo
+Car Name_KA
+Car Name_Kalos
+Car Name_Kangoo
+Car Name_Kangoo Waggon
+Car Name_Kicks
+Car Name_Kicks SR
+Car Name_Kizashi
+Car Name_Kizashi sporti
+Car Name_Korando
+Car Name_Kyron
+Car Name_L 200
+Car Name_LAFESTA
+Car Name_LATIO
+Car Name_LS 460
+Car Name_LX 470
+Car Name_LX 570
+Car Name_Lacetti
+Car Name_Laguna
+Car Name_Lancer
+Car Name_Lancer GT
+Car Name_Land Cruiser
+Car Name_Land Cruiser 100
+Car Name_Land Cruiser 105
+Car Name_Land Cruiser 11
+Car Name_Land Cruiser 200
+Car Name_Land Cruiser 80
+Car Name_Land Cruiser PRADO
+Car Name_Land Cruiser Prado
+Car Name_Land Cruiser Prado RX
+Car Name_Land Rover Sport
+Car Name_Lantra
+Car Name_Lantra LIMITED
+Car Name_Leaf
+Car Name_Legacy
+Car Name_Legacy B4
+Car Name_Legacy B4 twin turbo
+Car Name_Legacy Bl5
+Car Name_Legacy Outback
+Car Name_Legacy b4
+Car Name_Legacy bl5
+Car Name_Legend FULL
+Car Name_Leon
+Car Name_Liana
+Car Name_Liberty
+Car Name_Lupo
+Car Name_Lupo iaponuri
+Car Name_M3
+Car Name_M37
+Car Name_M4
+Car Name_M5
+Car Name_M5 Japan
+Car Name_M550
+Car Name_M6
+Car Name_MDX
+Car Name_MKZ
+Car Name_MKZ hybrid
+Car Name_ML 250
+Car Name_ML 270
+Car Name_ML 270 CDI
+Car Name_ML 280
+Car Name_ML 280 სასწრაფოდ
+Car Name_ML 300
+Car Name_ML 320
+Car Name_ML 320 AMG
+Car Name_ML 320 cdi
+Car Name_ML 350
+Car Name_ML 350 3.7
+Car Name_ML 350 370
+Car Name_ML 350 4 MATIC
+Car Name_ML 350 4matic
+Car Name_ML 350 BLUETEC
+Car Name_ML 350 ML350
+Car Name_ML 350 SPECIAL EDITION
+Car Name_ML 350 sport
+Car Name_ML 500
+Car Name_ML 500 AMG
+Car Name_ML 55 AMG
+Car Name_ML 550
+Car Name_ML 550 4.7
+Car Name_ML 63 AMG
+Car Name_MPV
+Car Name_MPV LX
+Car Name_Malibu
+Car Name_Malibu Hybrid
+Car Name_Malibu LT
+Car Name_Malibu eco
+Car Name_March
+Car Name_March 231212
+Car Name_March Rafeet
+Car Name_Mariner
+Car Name_Mariner Hybrid
+Car Name_Mark X
+Car Name_Matiz
+Car Name_Matrix XR
+Car Name_Maverick
+Car Name_Maxima
+Car Name_Mazda 2
+Car Name_Mazda 3
+Car Name_Mazda 3 SPORT
+Car Name_Mazda 5
+Car Name_Mazda 6
+Car Name_Mazda 6 Grand Touring
+Car Name_Mazda 6 Grand touring
+Car Name_Mazda 6 TOURING
+Car Name_Megane
+Car Name_Megane 1.5CDI
+Car Name_Megane 1.9 CDI
+Car Name_Megane 1.9CDI
+Car Name_Megane 19
+Car Name_Megane 5
+Car Name_Megane GT Line
+Car Name_Meriva
+Car Name_Micra
+Car Name_Micra <DIESEL>
+Car Name_Millenia
+Car Name_Minica
+Car Name_Mira
+Car Name_Mirage
+Car Name_Moco
+Car Name_Mondeo
+Car Name_Monterey
+Car Name_Montero
+Car Name_Montero Sport
+Car Name_Move
+Car Name_Murano
+Car Name_Musa
+Car Name_Mustang
+Car Name_Mustang cabrio
+Car Name_Mustang ecoboost
+Car Name_Mx-5
+Car Name_NEW Beetle
+Car Name_NX 200
+Car Name_NX 300
+Car Name_Navara
+Car Name_Navigator
+Car Name_Neon
+Car Name_Niro
+Car Name_Niva
+Car Name_Noah
+Car Name_Note
+Car Name_Nubira
+Car Name_Octavia
+Car Name_Octavia SCOUT
+Car Name_Octavia Scout
+Car Name_Odyssey
+Car Name_Omega
+Car Name_Omega 1
+Car Name_Omega B
+Car Name_Omega b
+Car Name_Omega c
+Car Name_One
+Car Name_Optima
+Car Name_Optima ECO
+Car Name_Optima EX
+Car Name_Optima HYBRID
+Car Name_Optima Hybrid
+Car Name_Optima SXL
+Car Name_Optima X
+Car Name_Optima ex
+Car Name_Optima hybid
+Car Name_Optima hybrid
+Car Name_Optima k5
+Car Name_Orlando
+Car Name_Outback
+Car Name_Outback 2007
+Car Name_Outback 3.0
+Car Name_Outback Limited
+Car Name_Outlander
+Car Name_Outlander 2.0
+Car Name_Outlander SE
+Car Name_Outlander SPORT
+Car Name_Outlander Sport
+Car Name_Outlander sport
+Car Name_Outlander xl
+Car Name_Outlander სპორტ
+Car Name_PT Cruiser
+Car Name_PT Cruiser pt cruiser
+Car Name_Paceman
+Car Name_Pacifica
+Car Name_Pajero
+Car Name_Pajero 2.5diezel
+Car Name_Pajero IO
+Car Name_Pajero MONTERO
+Car Name_Pajero Mini
+Car Name_Pajero Mini 2008 წლიანი
+Car Name_Pajero Mini 2010 წლიანი
+Car Name_Panamera
+Car Name_Panamera S
+Car Name_Panda
+Car Name_Passat
+Car Name_Passat 2.0 tfsi
+Car Name_Passat B5
+Car Name_Passat B7
+Car Name_Passat R-line
+Car Name_Passat RLAINI
+Car Name_Passat SE
+Car Name_Passat SEL
+Car Name_Passat Se
+Car Name_Passat pasat
+Car Name_Passat se
+Car Name_Passat sel
+Car Name_Passat sport
+Car Name_Passat tdi sel
+Car Name_Passat tsi-se
+Car Name_Passo
+Car Name_Passport
+Car Name_Pathfinder
+Car Name_Pathfinder SE
+Car Name_Patriot
+Car Name_Patriot 70th anniversary
+Car Name_Patriot Latitude
+Car Name_Patrol
+Car Name_Patrol Y60
+Car Name_Phaeton
+Car Name_Phantom
+Car Name_Picanto
+Car Name_Pilot
+Car Name_Polo
+Car Name_Polo GTI 16V
+Car Name_Premacy
+Car Name_Presage RIDER
+Car Name_Primera
+Car Name_Prius
+Car Name_Prius 1.5I
+Car Name_Prius 1.8
+Car Name_Prius 11
+Car Name_Prius 2014
+Car Name_Prius 3
+Car Name_Prius 9
+Car Name_Prius BLUG-IN
+Car Name_Prius C
+Car Name_Prius C 1.5I
+Car Name_Prius C 2013
+Car Name_Prius C 80 original
+Car Name_Prius C Hybrid
+Car Name_Prius C Navigation
+Car Name_Prius C YARIS IA
+Car Name_Prius C aqua
+Car Name_Prius C hybrid
+Car Name_Prius C ჰიბრიდი
+Car Name_Prius Plug IN
+Car Name_Prius Plug in
+Car Name_Prius S
+Car Name_Prius TSS LIMITED
+Car Name_Prius V
+Car Name_Prius V ALPINA
+Car Name_Prius V HIBRID
+Car Name_Prius V HYBRID
+Car Name_Prius personna
+Car Name_Prius plagin
+Car Name_Prius plug-in
+Car Name_Prius plugin
+Car Name_Prius prius
+Car Name_Prius s
+Car Name_Prius ფლაგინი
+Car Name_Prius ჰიბრიდი
+Car Name_Punto
+Car Name_Q3
+Car Name_Q45
+Car Name_Q5
+Car Name_Q5 Prestige
+Car Name_Q5 S-line
+Car Name_Q50 S Red
+Car Name_Q7
+Car Name_Q7 sport
+Car Name_QX56
+Car Name_QX60
+Car Name_QX80
+Car Name_Qashqai Advance CVT
+Car Name_Qashqai SPORT
+Car Name_Quest
+Car Name_Quest 2016
+Car Name_R 320
+Car Name_R 350
+Car Name_R 350 BLUETEC
+Car Name_R2
+Car Name_RAM
+Car Name_RAM 1500
+Car Name_RAV 4
+Car Name_RAV 4 Dizel
+Car Name_RAV 4 L
+Car Name_RAV 4 LIMITED
+Car Name_RAV 4 Le
+Car Name_RAV 4 SPORT
+Car Name_RAV 4 SUPER!!!
+Car Name_RAV 4 XLE
+Car Name_RAV 4 XLE Sport
+Car Name_RAV 4 s p o r t
+Car Name_RAV 4 se
+Car Name_RC F
+Car Name_RC F F SPORT
+Car Name_RDX
+Car Name_REXTON
+Car Name_REXTON SUPER
+Car Name_RIO
+Car Name_RIO lX
+Car Name_RIO lx
+Car Name_RS6
+Car Name_RS7
+Car Name_RVR
+Car Name_RX 300
+Car Name_RX 350
+Car Name_RX 400
+Car Name_RX 400 H
+Car Name_RX 400 HYBRID
+Car Name_RX 400 RESTAILING
+Car Name_RX 400 hybrid
+Car Name_RX 450
+Car Name_RX 450 F SPORT
+Car Name_RX 450 H
+Car Name_RX 450 HYBRID
+Car Name_Ractis
+Car Name_Ramcharger
+Car Name_Range Rover
+Car Name_Range Rover Evoque
+Car Name_Range Rover Evoque 2.0
+Car Name_Range Rover Evoque რესტა
+Car Name_Range Rover VOGUE
+Car Name_Ranger
+Car Name_Ranger Wildtrak
+Car Name_Rasheen
+Car Name_Regal
+Car Name_Renegade
+Car Name_Ridgeline
+Car Name_Rodeo
+Car Name_Rogue
+Car Name_Rogue SL
+Car Name_Rogue SPORT
+Car Name_Rogue Sport
+Car Name_Routan SEL
+Car Name_Rx-8
+Car Name_S 320
+Car Name_S 350
+Car Name_S 350 CDI 320
+Car Name_S 350 Longia
+Car Name_S 400
+Car Name_S 420
+Car Name_S 430
+Car Name_S 430 4.3
+Car Name_S 500
+Car Name_S 500 67
+Car Name_S 500 long
+Car Name_S 55 5.5
+Car Name_S 550
+Car Name_S 550 LONG
+Car Name_S 550 ჰიბრიდი
+Car Name_S 600
+Car Name_S 63 AMG
+Car Name_S-max
+Car Name_S-type
+Car Name_S3
+Car Name_S40
+Car Name_S6
+Car Name_S60
+Car Name_S70
+Car Name_S80
+Car Name_SJ 413 Samurai
+Car Name_SL 55 AMG
+Car Name_SLK 230
+Car Name_SLK 32 AMG
+Car Name_SLK 350 300
+Car Name_SOUL
+Car Name_SRX
+Car Name_SX4
+Car Name_Sambar
+Car Name_Samurai
+Car Name_Santa FE
+Car Name_Santa FE Ultimate
+Car Name_Santa FE long
+Car Name_Santa FE sport
+Car Name_Scenic
+Car Name_Scirocco
+Car Name_Scorpio
+Car Name_Sebring
+Car Name_Seicento fiat 600
+Car Name_Sentra
+Car Name_Sequoia
+Car Name_Serena
+Car Name_Serena Serea
+Car Name_Sharan
+Car Name_Shuttle
+Car Name_Sienna
+Car Name_Sienta
+Car Name_Sienta LE
+Car Name_Sierra
+Car Name_Sierra DIZEL
+Car Name_Silverado
+Car Name_Sintra
+Car Name_Sirion
+Car Name_Skyline
+Car Name_Skyline 4WD
+Car Name_Skyline GT250
+Car Name_Smart
+Car Name_Smart Fortwo
+Car Name_Sonata
+Car Name_Sonata 2.0t
+Car Name_Sonata 2.4L
+Car Name_Sonata HYBRID
+Car Name_Sonata Hibrid
+Car Name_Sonata Hybrid
+Car Name_Sonata LIMITED
+Car Name_Sonata LPG
+Car Name_Sonata Limited
+Car Name_Sonata S
+Car Name_Sonata SE
+Car Name_Sonata SE LIMITED
+Car Name_Sonata SPORT
+Car Name_Sonata Sport
+Car Name_Sonata blue edition
+Car Name_Sonata hybrid
+Car Name_Sonata sport
+Car Name_Sonata სასწრაფოდ
+Car Name_Sonic
+Car Name_Sonic LT
+Car Name_Sorento
+Car Name_Sorento EX
+Car Name_Sorento SX
+Car Name_Space Runner
+Car Name_Spark
+Car Name_Sportage
+Car Name_Sportage EX
+Car Name_Sportage PRESTIGE
+Car Name_Sportage SX
+Car Name_Sprinter
+Car Name_Sprinter 311
+Car Name_Sprinter 313
+Car Name_Sprinter 313CDI
+Car Name_Sprinter 314
+Car Name_Sprinter 315CDI
+Car Name_Sprinter 315CDI-XL
+Car Name_Sprinter 316
+Car Name_Sprinter 316 CDI
+Car Name_Sprinter 411
+Car Name_Sprinter 516
+Car Name_Sprinter EURO4
+Car Name_Sprinter Maxi-ს Max
+Car Name_Sprinter VAN
+Car Name_Sprinter VIP CLASS
+Car Name_Stella
+Car Name_Step Wagon
+Car Name_Step Wagon Pada
+Car Name_Step Wagon RG2 SPADA
+Car Name_Stream
+Car Name_Suburban
+Car Name_Superb
+Car Name_Swift
+Car Name_Swift Sport
+Car Name_T3
+Car Name_T5
+Car Name_TERRAIN
+Car Name_TL
+Car Name_TLX
+Car Name_TSX
+Car Name_TT
+Car Name_Tacoma
+Car Name_Tacoma TRD Off Road
+Car Name_Taurus
+Car Name_Taurus X
+Car Name_Taurus interceptor
+Car Name_Teana
+Car Name_Terios
+Car Name_Terrano
+Car Name_Tigra
+Car Name_Tiguan
+Car Name_Tiguan SE
+Car Name_Tiida
+Car Name_Tiida 15 M
+Car Name_Tiida 2008
+Car Name_Tiida AXIS
+Car Name_Tiida Latio
+Car Name_Touareg
+Car Name_Touran
+Car Name_Tourneo Connect
+Car Name_Town Car
+Car Name_Town and Country
+Car Name_Trailblazer
+Car Name_Transit
+Car Name_Transit 100LD
+Car Name_Transit 135
+Car Name_Transit 2.4
+Car Name_Transit 350T
+Car Name_Transit CL
+Car Name_Transit Connect
+Car Name_Transit Connect Prastoi
+Car Name_Transit Connect ბენზინი
+Car Name_Transit Custom
+Car Name_Transit Fff
+Car Name_Transit S
+Car Name_Transit T330
+Car Name_Transit Tourneo
+Car Name_Transit ford
+Car Name_Transit პერეგაროტკა
+Car Name_Transporter
+Car Name_Traverse
+Car Name_Trax
+Car Name_Tribute
+Car Name_Tribute სასწრაფოდ
+Car Name_Tucson
+Car Name_Tucson Limited
+Car Name_Tucson SE
+Car Name_Tucson Se
+Car Name_Tucson TURBO
+Car Name_Tundra
+Car Name_Twingo
+Car Name_UP
+Car Name_V 230
+Car Name_V50
+Car Name_VOXY
+Car Name_VOXY 2003
+Car Name_Vaneo
+Car Name_Vanette
+Car Name_Vectra
+Car Name_Vectra 1.6
+Car Name_Vectra B
+Car Name_Vectra C
+Car Name_Vectra H
+Car Name_Vectra b
+Car Name_Vectra c
+Car Name_Vectra ბ
+Car Name_VehiCross
+Car Name_Veloster
+Car Name_Veloster R-spec
+Car Name_Veloster TURBO
+Car Name_Veloster Turbo
+Car Name_Veloster remix
+Car Name_Vento
+Car Name_Venza
+Car Name_Veracruz
+Car Name_Verisa
+Car Name_Verisa 2007
+Car Name_Versa
+Car Name_Versa SE
+Car Name_Versa s
+Car Name_Verso
+Car Name_Vesta
+Car Name_Viano
+Car Name_Viano Ambiente
+Car Name_Virage
+Car Name_Vitara
+Car Name_Vitara GL+
+Car Name_Vito
+Car Name_Vito 110d
+Car Name_Vito 111
+Car Name_Vito 111 CDI
+Car Name_Vito 113
+Car Name_Vito 115
+Car Name_Vito 115 CDI
+Car Name_Vito 2.2
+Car Name_Vito Exstralong
+Car Name_Vito Extra Long
+Car Name_Vito Extralong
+Car Name_Vito long115
+Car Name_Vitz
+Car Name_Vitz RS
+Car Name_Vitz funkargo
+Car Name_Vitz i.ll
+Car Name_Volt
+Car Name_Volt Full Packet
+Car Name_Volt PREMIER
+Car Name_Volt Premier
+Car Name_Volt premier
+Car Name_Vue
+Car Name_Will Chypa
+Car Name_Will Vs
+Car Name_Wingroad
+Car Name_Wish
+Car Name_Wizard
+Car Name_Wrangler
+Car Name_Wrangler ARB
+Car Name_Wrangler sport
+Car Name_X-Terra
+Car Name_X-Trail
+Car Name_X-Trail NISMO
+Car Name_X-Trail NISSAN X TRAIL R
+Car Name_X-Trail X-trail
+Car Name_X-Trail gt
+Car Name_X-type
+Car Name_X1
+Car Name_X1 28Xdrive
+Car Name_X1 4X4
+Car Name_X1 X-Drive
+Car Name_X3
+Car Name_X3 3.5i
+Car Name_X3 SDRIVE
+Car Name_X4
+Car Name_X5
+Car Name_X5 3.0
+Car Name_X5 3.0i
+Car Name_X5 3.5
+Car Name_X5 35d
+Car Name_X5 4,4i
+Car Name_X5 4.8is
+Car Name_X5 DIESEL
+Car Name_X5 E70
+Car Name_X5 Japan
+Car Name_X5 M
+Car Name_X5 M packet
+Car Name_X5 Sport
+Car Name_X5 X-Drive
+Car Name_X5 XDRIVE
+Car Name_X5 XDRIVE 35D
+Car Name_X5 e53
+Car Name_X5 rest
+Car Name_X5 restilling
+Car Name_X5 x5
+Car Name_X6
+Car Name_X6 40D
+Car Name_X6 GERMANY
+Car Name_X6 Limited
+Car Name_X6 M
+Car Name_XC90
+Car Name_XC90 2.5turbo
+Car Name_XC90 3.2 AWD
+Car Name_XE
+Car Name_XF
+Car Name_XJ
+Car Name_XK
+Car Name_XL7
+Car Name_XL7 limited
+Car Name_XV
+Car Name_XV HYBRID
+Car Name_XV LIMITED
+Car Name_YRV
+Car Name_Yaris
+Car Name_Yaris IA
+Car Name_Yaris RS
+Car Name_Yaris SE
+Car Name_Yaris iA
+Car Name_Yukon
+Car Name_Z4
+Car Name_Z4 3,0 SI
+Car Name_Zafira
+Car Name_Zafira B
+Car Name_i20
+Car Name_i3
+Car Name_i40
+Car Name_iA isti
+Car Name_kona
+Car Name_macan
+Car Name_tC
+Car Name_xD
+Car Name_CHEVROLET Cruze
+Car Name_FORD Fusion
+Car Name_FORD Transit
+Car Name_HONDA FIT
+Car Name_HYUNDAI Elantra
+Car Name_HYUNDAI H1
+Car Name_HYUNDAI Santa FE
+Car Name_HYUNDAI Sonata
+Car Name_HYUNDAI Tucson
+Car Name_KIA Optima
+Car Name_LEXUS GX 460
+Car Name_MERCEDES-BENZ E 350
+Car Name_MERCEDES-BENZ ML 350
+Car Name_Others
+Car Name_SSANGYONG Actyon
+Car Name_TOYOTA Aqua
+Car Name_TOYOTA Camry
+Car Name_TOYOTA Highlander
+Car Name_TOYOTA Prius
+Car Name_VOLKSWAGEN Jetta
