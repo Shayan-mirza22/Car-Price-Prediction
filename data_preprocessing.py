@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-
+import joblib
 df = pd.read_csv('car_price_prediction.csv')
 
 #print(df.head())
@@ -43,6 +43,7 @@ df3['Engine volume'] = df3['Engine volume'].str.replace(' Turbo', '', regex=Fals
 
 # Ensure Levy is numeric
 df3['Levy'] = pd.to_numeric(df3['Levy'], errors='coerce')
+print(df3.shape[1])
 """ 
 
 num_col = ['Price', 'Levy', 'Engine volume', 'Mileage', 'Cylinders', 'Airbags']
@@ -147,4 +148,25 @@ print("Total unique manufacturer-model combinations:", total_combinations) """
  #   for col in df8.columns:
   #      f.write(col + "\n")
 
-df8 = pd.get_dummies(df7, 'Manufacturer', drop_first=True)
+# Check if 'Manufacturer' exists
+print("Columns in df7:", df7.columns)
+
+# Number of unique manufacturers
+print("Total unique manufacturers:", df7['Manufacturer'].nunique())
+
+# One-hot encoding
+df8 = pd.get_dummies(df7, columns=['Manufacturer'], drop_first=True)
+print("Total columns after encoding:", df8.shape[1])
+
+#with open("new_columns_list.txt", "w", encoding="utf-8") as f:
+    #for col in df8.columns:
+        #f.write(col + "\n")
+
+df8 = df8.drop(['Manufacturer_სხვა'], axis= 'columns')     # problematic
+print("Columns in df8:", df8.columns)
+
+X = df8.drop(['ID', 'Price'], axis=1)     # Features
+Y = df8['Price']     # Target
+
+joblib.dump(X, 'X.pkl')
+joblib.dump(Y, 'Y.pkl')

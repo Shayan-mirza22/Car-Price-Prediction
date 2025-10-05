@@ -1,0 +1,108 @@
+ID
+Price
+Levy
+Model
+Prod. year
+Engine volume
+Mileage
+Cylinders
+Airbags
+Category_Coupe
+Category_Goods wagon
+Category_Hatchback
+Category_Jeep
+Category_Limousine
+Category_Microbus
+Category_Minivan
+Category_Pickup
+Category_Sedan
+Category_Universal
+Leather interior_Yes
+Fuel type_Diesel
+Fuel type_Hybrid
+Fuel type_Hydrogen
+Fuel type_LPG
+Fuel type_Petrol
+Fuel type_Plug-in Hybrid
+Gear box type_Manual
+Gear box type_Tiptronic
+Gear box type_Variator
+Drive wheels_Front
+Drive wheels_Rear
+Wheel_Right-hand drive
+Color_Black
+Color_Blue
+Color_Brown
+Color_Carnelian red
+Color_Golden
+Color_Green
+Color_Grey
+Color_Orange
+Color_Pink
+Color_Purple
+Color_Red
+Color_Silver
+Color_Sky blue
+Color_White
+Color_Yellow
+Manufacturer_ALFA ROMEO
+Manufacturer_ASTON MARTIN
+Manufacturer_AUDI
+Manufacturer_BMW
+Manufacturer_BUICK
+Manufacturer_CADILLAC
+Manufacturer_CHEVROLET
+Manufacturer_CHRYSLER
+Manufacturer_CITROEN
+Manufacturer_DAEWOO
+Manufacturer_DAIHATSU
+Manufacturer_DODGE
+Manufacturer_FERRARI
+Manufacturer_FIAT
+Manufacturer_FORD
+Manufacturer_GAZ
+Manufacturer_GMC
+Manufacturer_GREATWALL
+Manufacturer_HAVAL
+Manufacturer_HONDA
+Manufacturer_HUMMER
+Manufacturer_HYUNDAI
+Manufacturer_INFINITI
+Manufacturer_ISUZU
+Manufacturer_JAGUAR
+Manufacturer_JEEP
+Manufacturer_KIA
+Manufacturer_LANCIA
+Manufacturer_LAND ROVER
+Manufacturer_LEXUS
+Manufacturer_LINCOLN
+Manufacturer_MASERATI
+Manufacturer_MAZDA
+Manufacturer_MERCEDES-BENZ
+Manufacturer_MERCURY
+Manufacturer_MINI
+Manufacturer_MITSUBISHI
+Manufacturer_MOSKVICH
+Manufacturer_NISSAN
+Manufacturer_OPEL
+Manufacturer_PEUGEOT
+Manufacturer_PONTIAC
+Manufacturer_PORSCHE
+Manufacturer_RENAULT
+Manufacturer_ROLLS-ROYCE
+Manufacturer_ROVER
+Manufacturer_SAAB
+Manufacturer_SATURN
+Manufacturer_SCION
+Manufacturer_SEAT
+Manufacturer_SKODA
+Manufacturer_SSANGYONG
+Manufacturer_SUBARU
+Manufacturer_SUZUKI
+Manufacturer_TOYOTA
+Manufacturer_UAZ
+Manufacturer_VAZ
+Manufacturer_VOLKSWAGEN
+Manufacturer_VOLVO
+Manufacturer_ZAZ
+Manufacturer_სხვა
