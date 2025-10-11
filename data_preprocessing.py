@@ -156,14 +156,28 @@ print("Total unique manufacturers:", df7['Manufacturer'].nunique())
 
 # One-hot encoding
 df8 = pd.get_dummies(df7, columns=['Manufacturer'], drop_first=True)
-print("Total columns after encoding:", df8.shape[1])
+#print("Total columns after encoding:", df8.shape[1])
 
 #with open("new_columns_list.txt", "w", encoding="utf-8") as f:
     #for col in df8.columns:
         #f.write(col + "\n")
 
 df8 = df8.drop(['Manufacturer_სხვა'], axis= 'columns')     # problematic
-print("Columns in df8:", df8.columns)
+#print("Columns in df8:", df8.columns)
+#print("Unique models: ", df8['Model'].nunique())    # 1525
+
+## Target Encoding on Model Columns ##
+# Step 1: Compute mean price for each model
+model_target_mean = df8.groupby('Model')['Price'].mean()
+
+# Step 2: Map those mean values back to the original dataframe
+df8['Model_encoded'] = df8['Model'].map(model_target_mean)
+
+# Step 3: Drop the original 'Model' column
+df8.drop('Model', axis=1, inplace=True)
+
+# Optional: Check if everything looks correct
+print(df8[['Model_encoded', 'Price']].head())
 
 X = df8.drop(['ID', 'Price'], axis=1)     # Features
 Y = df8['Price']     # Target
